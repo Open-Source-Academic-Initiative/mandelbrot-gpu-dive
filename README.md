@@ -1,5 +1,7 @@
 # Cinematic GPU Mandelbrot Explorer
 
+![Mandelbrot Preview](preview.jpg)
+
 A high-performance, GPU-accelerated Mandelbrot set explorer and cinematic animation written in Python.
 
 This prototype uses **Vispy** and **OpenGL Fragment Shaders** to calculate and render the fractal directly on the GPU, allowing for buttery-smooth 60 FPS deep dives into the Mandelbrot set.
